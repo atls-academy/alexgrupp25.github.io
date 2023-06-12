@@ -1,8 +1,8 @@
-[//]: # (VERSIONS)
+[//]: # 'VERSIONS'
 
-<img src="https://img.shields.io/static/v1?style=for-the-badge&label=%40atls%2Fcode-service&message=0.0.16&labelColor=ECEEF5&color=D7DCEB">  <img src="https://img.shields.io/static/v1?style=for-the-badge&label=%40atls%2Fschematics&message=0.0.12&labelColor=ECEEF5&color=D7DCEB">  
+<img src="https://img.shields.io/static/v1?style=for-the-badge&label=%40atls%2Fcode-service&message=0.0.16&labelColor=ECEEF5&color=D7DCEB"> <img src="https://img.shields.io/static/v1?style=for-the-badge&label=%40atls%2Fschematics&message=0.0.12&labelColor=ECEEF5&color=D7DCEB">
 
-[//]: # (VERSIONS)
+[//]: # 'VERSIONS'
 
 # Добро пожаловать в твой личный репозиторий Atlantis Academy!
 
@@ -19,4 +19,4 @@
 Если возникнут трудности, то всегда можно позвать на помощь. Для этого нужно:
 
 - Либо написать комменатрий внутрий рабочей задачи.
-- Либо если твой вопрос объемный, создать новый issue. Для этого предусмотрен шаблон Help Wanted. Чтобы позвать на помощь, просто создай новый issue и выбери шаблон Help Wanted. Остальное внутри. 
+- Либо если твой вопрос объемный, создать новый issue. Для этого предусмотрен шаблон Help Wanted. Чтобы позвать на помощь, просто создай новый issue и выбери шаблон Help Wanted. Остальное внутри.
